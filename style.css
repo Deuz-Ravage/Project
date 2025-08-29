@@ -1,0 +1,53 @@
+/* Code css Repotest*/
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FDBD10;
+}
+header{
+    position: sticky;
+    display: flex;
+    background-color: #FFF2E0;
+    margin: 0px;
+}
+#logobk{
+    padding-left: 16px;
+    padding-top: 8px;
+    background-color: gray;
+}
+nav{
+    margin-left: 20em;
+    background-color: green;
+    align-self: center;
+    align-items: center;
+}
+nav ul{
+    list-style: none;
+    list-style-type: none;
+    display: flex;
+    background-color: blue;
+    
+}
+nav li{
+    
+}
+nav li a{
+    text-decoration: none;
+    margin: 10px 80px ;
+    font-family: "Zain", sans-serif;
+    font-weight: 400;
+    color: #0066B2;
+    font-size: large;
+    background-color: red;
+}
+#search{
+    align-self: center;
+    background-color: red;
+}
+#inputsearch{
+    width: 150px;
+    height: 25px;
+    border-radius: 10px;
+    background-color: blue;
+}
